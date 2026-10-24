@@ -1,0 +1,22 @@
+# Vercel
+.vercel
+
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Thumbnails
+._*
+Thumbs.db
+
+# Logs
+*.log
+npm-debug.log*
+
+# Editors / IDEs
+.idea/
+*.sublime-workspace
+*.sublime-project
+*.swp
+*.swo
